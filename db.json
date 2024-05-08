@@ -1,0 +1,24 @@
+{
+    "products":[
+        { "id": 1, "nameOfProduct": "PS-5","image":"https://picsum.photos/id/26/4209/2769", "price": 175000, "quantity": 0 },
+        { "id": 2, "nameOfProduct": "Xbox Series X","image":"", "price": 150000, "quantity": 0 },
+        { "id": 3, "nameOfProduct": "iPhone", "price": 100000, "quantity": 0 },
+        { "id": 4, "nameOfProduct": "Dell Monitor", "price": 10000, "quantity": 0 },
+        { "id": 5, "nameOfProduct": "Mac", "price": 75000, "quantity": 0 },
+        { "id": 6, "nameOfProduct": "ipad", "price": 75000, "quantity": 0 },
+        { "id": 7, "nameOfProduct": "mattress", "price": 75000, "quantity": 0 },
+        { "id": 8, "nameOfProduct": "wireless wifi", "price": 75000, "quantity": 0 },
+        { "id": 9, "nameOfProduct": "iPhone 15", "price": 75000, "quantity": 0 },
+        { "id": 10, "nameOfProduct": "Galaxy S5", "price": 75000, "quantity": 0 },
+        { "id": 11, "nameOfProduct": "HP Monitor", "price": 75000, "quantity": 0 },
+        { "id": 12, "nameOfProduct": "LG FRIDGE", "price": 75000, "quantity": 0 },
+        { "id": 13, "nameOfProduct": "SONY home theatre", "price": 75000, "quantity": 0 },
+        { "id": 14, "nameOfProduct": "Andriod TLC TV", "price": 75000, "quantity": 0 },
+        { "id": 15, "nameOfProduct": "Washing machine", "price": 75000, "quantity": 0 },
+        { "id": 16, "nameOfProduct": "Microwave", "price": 75000, "quantity": 0 },
+        { "id": 17, "nameOfProduct": "Iron box", "price": 75000, "quantity": 0 },
+        { "id": 18, "nameOfProduct": "Oven", "price": 75000, "quantity": 0 },
+        { "id": 19, "nameOfProduct": "Blender", "price": 75000, "quantity": 0 },
+        { "id": 20, "nameOfProduct": "Vacuum cleaner", "price": 75000, "quantity": 0 }
+    ]
+}
